@@ -1,0 +1,22 @@
+{
+  "name": "mindmeet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@clerk/nextjs": "^6.31.6",
+    "@prisma/client": "^6.15.0",
+    "axios": "^1.11.0",
+    "express": "^5.1.0",
+    "react": "^19.1.1"
+  },
+  "devDependencies": {
+    "prisma": "^6.15.0"
+  }
+}
